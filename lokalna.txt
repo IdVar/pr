@@ -1,0 +1,1 @@
+to jest lokalna zmiana w galezi, ktora ma trafic pod new-branch
